@@ -1,5 +1,6 @@
-# Welcome to GitHub Desktop!
+#Welcome to Github for learning HTML
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+If you dont know how to start coding in HTML, this tutorial will help you to advance yourself in web development.
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+
+THIS IS SHANKAR.K
